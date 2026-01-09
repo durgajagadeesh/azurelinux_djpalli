@@ -1680,7 +1680,6 @@
                 "python-dbus-signature-pyparsing",
                 "python-dbusmock",
                 "python-ddt",
-                "python-debtcollector",
                 "python-decorator",
                 "python-distlib",
                 "python-dmidecode",
